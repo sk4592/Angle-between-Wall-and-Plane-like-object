@@ -1,0 +1,2 @@
+angle
+-DCATKIN_DEVEL_PREFIX=/home/suhasa/angle_ws/devel -DCMAKE_INSTALL_PREFIX=/home/suhasa/angle_ws/install -G Unix Makefiles
